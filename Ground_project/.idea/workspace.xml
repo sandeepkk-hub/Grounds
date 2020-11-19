@@ -80,37 +80,9 @@
     <option name="width" value="980" />
     <option name="height" value="1090" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Ground_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ground_project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ground_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ground_project" type="462c0819:PsiDirectoryNode" />
-              <item name="Ground_project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ground_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ground_project" type="462c0819:PsiDirectoryNode" />
-              <item name="Owner" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1kUqCupPwTe04ZHSQveDCjOM3iI" />
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
